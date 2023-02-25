@@ -2,7 +2,7 @@
   
 ## This is a homework project to test my understanding of how to refactor an already existing code to make it have alt attributes, how to ensure that all heading attributes are in sequential order, finding descriptive titles, find semantic html elements, ensure all elements have logical stucture and provide a ledgible and thorough READ.ME file.
   
-  -I am motivated to learn these new concepts so that I can further my knowledge and successfully become a full stack web engineer. 
+  -I am motivated to ensure that there are semantic HTML elements, that all element follow a logical structure, that I find accessible attributes, add a descriptive title and that the heading attributes fall in sequntial order. 
   
   -I took on this project in order to learn how to understand heading attributes and making sure they are in sequential order, finding descriptive titles, finding semantic html elements, ensurubg all elements have logical stucture and provide a ledgible and thorough READ.ME file. I am applying the knowledge learned in course prework and in the activities to this first homework project.
   
